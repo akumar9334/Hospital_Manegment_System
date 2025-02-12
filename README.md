@@ -29,8 +29,8 @@ The **Hospital Management System** is a web-based application designed to stream
 ### Steps to Setup
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/akumar9334/Hospital_Management_System.git
-   cd Hospital_Management_System
+git clone -b master https://github.com/yourusername/Hospital_Management_System.git
+cd Hospital_Management_System
    ```
 2. **Import Project into neatbeans**
 3. **Configure Apache Tomcat** in your IDE

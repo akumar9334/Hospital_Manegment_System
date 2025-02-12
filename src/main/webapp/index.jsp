@@ -84,7 +84,7 @@
                             <div class="card paint-card">
                                 <div class="card-body">
                                     <p class="fs-5">100% Safety</p>
-                                    <p>We ensure complete protection and security for you. Our team works hard to keep everything safe and secure.
+                                    <p>We are ensure complete protection and security for you. Our team works hard to keep everything safe and secure.
                                     </p>
                                 </div>
                             </div>
